@@ -1,0 +1,17 @@
+=== RAPPORT D'ANALYSE RESEAU ===
+
+Total connexions : 84
+Total succès : 59
+Total échecs : 25
+Port le plus utilisé : 22
+IP la plus active : 192.168.1.10
+
+=== IP SUSPECTES ===
+192.168.1.10 sur port 22 (6 échecs)
+192.168.1.20 sur port 21 (6 échecs)
+192.168.1.40 sur port 22 (6 échecs)
+
+=== TOP 3 PORTS ===
+Port 22 : 22 connexions
+Port 443 : 11 connexions
+Port 80 : 10 connexions
